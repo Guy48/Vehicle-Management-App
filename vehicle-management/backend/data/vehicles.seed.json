@@ -1,0 +1,122 @@
+[
+  {
+    "id": "A8dE2kLp",
+    "licensePlate": "ANY-001",
+    "status": "InUse",
+    "createdAt": "2025-10-01T09:15:00.000Z"
+  },
+  {
+    "id": "pK7rX0qZ",
+    "licensePlate": "BUG-404",
+    "status": "InUse",
+    "createdAt": "2025-10-02T10:45:00.000Z"
+  },
+  {
+    "id": "r9U2sN1t",
+    "licensePlate": "ASY-NC",
+    "status": "InUse",
+    "createdAt": "2025-10-03T08:20:00.000Z"
+  },
+  {
+    "id": "zQ3mK8cT",
+    "licensePlate": "FST-CMP",
+    "status": "InUse",
+    "createdAt": "2025-10-03T11:30:00.000Z"
+  },
+  {
+    "id": "Y6bJ7tWp",
+    "licensePlate": "JIT-LOL",
+    "status": "InUse",
+    "createdAt": "2025-10-04T13:10:00.000Z"
+  },
+  {
+    "id": "L2sW9gRn",
+    "licensePlate": "CMP-ERR",
+    "status": "InUse",
+    "createdAt": "2025-10-04T17:55:00.000Z"
+  },
+  {
+    "id": "oT1hV7pF",
+    "licensePlate": "RUN-TME",
+    "status": "InUse",
+    "createdAt": "2025-10-05T09:22:00.000Z"
+  },
+  {
+    "id": "b5DkM3yJ",
+    "licensePlate": "OBJ-ECT",
+    "status": "InUse",
+    "createdAt": "2025-10-06T07:42:00.000Z"
+  },
+  {
+    "id": "H3aV6nEr",
+    "licensePlate": "TS-NUL",
+    "status": "InUse",
+    "createdAt": "2025-10-07T10:00:00.000Z"
+  },
+  {
+    "id": "xE4sB9cU",
+    "licensePlate": "LZY-LOD",
+    "status": "InUse",
+    "createdAt": "2025-10-08T15:36:00.000Z"
+  },
+  {
+    "id": "K9wQ2eHn",
+    "licensePlate": "MAI-001",
+    "status": "Maintenance",
+    "createdAt": "2025-10-09T11:15:00.000Z"
+  },
+  {
+    "id": "u1LzT5gR",
+    "licensePlate": "FIX-404",
+    "status": "Maintenance",
+    "createdAt": "2025-10-10T14:00:00.000Z"
+  },
+  {
+    "id": "F7vN0dQp",
+    "licensePlate": "AVA-001",
+    "status": "Available",
+    "createdAt": "2025-10-11T09:45:00.000Z"
+  },
+  {
+    "id": "s6JrE4zK",
+    "licensePlate": "AVA-002",
+    "status": "Available",
+    "createdAt": "2025-10-12T08:30:00.000Z"
+  },
+  {
+    "id": "W8pL1bRx",
+    "licensePlate": "AVA-003",
+    "status": "Available",
+    "createdAt": "2025-10-13T12:00:00.000Z"
+  },
+  {
+    "id": "M4gT7kVq",
+    "licensePlate": "AVA-004",
+    "status": "Available",
+    "createdAt": "2025-10-14T16:15:00.000Z"
+  },
+  {
+    "id": "n3YbH2tJ",
+    "licensePlate": "AVA-005",
+    "status": "Available",
+    "createdAt": "2025-10-15T10:10:00.000Z"
+  },
+  {
+    "id": "d2PqZ6xC",
+    "licensePlate": "AVA-006",
+    "status": "Available",
+    "createdAt": "2025-10-16T09:20:00.000Z"
+  },
+  {
+    "id": "R5fX0mLp",
+    "licensePlate": "AVA-007",
+    "status": "Available",
+    "createdAt": "2025-10-17T14:45:00.000Z"
+  },
+  {
+    "id": "c8NwS1yG",
+    "licensePlate": "AVA-008",
+    "status": "Available",
+    "createdAt": "2025-10-18T11:32:00.000Z"
+  }
+]
