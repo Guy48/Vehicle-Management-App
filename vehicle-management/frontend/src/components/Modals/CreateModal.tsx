@@ -16,7 +16,7 @@ export default function CreateModal({ newId, setNewId, newPlate, setNewPlate, sa
     <div className="modal-backdrop" onClick={() => onCancel()}>
       <form className="modal" onClick={(e) => e.stopPropagation()} onSubmit={(e) => void onSubmit(e)}>
         <h3>Create Vehicle</h3>
-        <label>ID (exactly 8 letters or digits)</label>
+        <label>ID</label>
         <input autoFocus value={newId} onChange={(e) => setNewId(e.target.value)} placeholder="8 chars, letters and digits" />
         <label>License plate</label>
         <input value={newPlate} onChange={(e) => setNewPlate(e.target.value.toUpperCase())} placeholder="CAPS letters, digits, and '-' only" />
