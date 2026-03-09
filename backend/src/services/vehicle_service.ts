@@ -18,6 +18,16 @@ export const MIN_MAINTENANCE = Number(process.env.MIN_MAINTENANCE ?? 0);
 
 export function readVehicles(): Vehicle[] {
   try {
+    // If data file doesn't exist, initialize it from the seed file
+    if (!fs.existsSync(dataPath)) {
+      if (fs.existsSync(seedPath)) {
+        fs.copyFileSync(seedPath, dataPath);
+        console.log('Initialized vehicles.json from seed');
+      } else {
+        console.error('Seed file not found:', seedPath);
+        return [];
+      }
+    }
     const raw = fs.readFileSync(dataPath, "utf8");
     return JSON.parse(raw) as Vehicle[];
   } catch (err) {
