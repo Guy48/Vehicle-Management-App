@@ -1,0 +1,32 @@
+[
+  {
+    "id": "v1",
+    "licensePlate": "ABC-123",
+    "status": "InUse",
+    "createdAt": "2025-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "v2",
+    "licensePlate": "DEF-456",
+    "status": "InUse",
+    "createdAt": "2025-10-02T10:30:00.000Z"
+  },
+  {
+    "id": "v3",
+    "licensePlate": "GHI-789",
+    "status": "Maintenance",
+    "createdAt": "2025-10-03T11:15:00.000Z"
+  },
+  {
+    "id": "v5",
+    "licensePlate": "MNO-345",
+    "status": "Available",
+    "createdAt": "2025-10-05T14:45:00.000Z"
+  },
+  {
+    "id": "BYrObM-q",
+    "licensePlate": "TEST-123",
+    "status": "Available",
+    "createdAt": "2025-10-25T16:37:12.850Z"
+  }
+]
